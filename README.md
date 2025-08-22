@@ -6,6 +6,8 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
   <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="20" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo" />
   <img width="20" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40" alt="html logo" />
@@ -25,4 +27,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" height="40" alt="azure logo" />
   <img width="20" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" height="40" alt="rust logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="20" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
