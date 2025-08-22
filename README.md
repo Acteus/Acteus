@@ -13,4 +13,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
   <img width="20" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" height="40" alt="firebase logo" />
+  <img width="20" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" height="40" alt="azure logo" />
 </div>
