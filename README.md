@@ -23,4 +23,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" height="40" alt="firebase logo" />
   <img width="20" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" height="40" alt="azure logo" />
+  <img width="20" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" height="40" alt="rust logo" />
 </div>
