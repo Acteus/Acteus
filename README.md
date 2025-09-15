@@ -1,4 +1,4 @@
-[![Acteus' GitHub stats](https://github-readme-stats.vercel.app/api?username=acteus)](https://github.com/anuraghazra/github-readme-stats)
+![Acteus' GitHub stats](https://github-readme-stats.vercel.app/api?username=acteus&show_icons=true&card_width=1000px&theme=tokyonight)
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="20" />
