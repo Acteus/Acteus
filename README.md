@@ -30,10 +30,10 @@
   <h3 align="center"> Featured Projects</h3>
   <div align="center">
     <a href="https://github.com/Acteus/Project-ISO">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Acteus&repo=project-1&theme=tokyonight&hide_border=true&bg_color=00000000" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Acteus&repo=Project-ISO&theme=tokyonight&hide_border=true&bg_color=00000000" />
     </a>
     <a href="https://github.com/Acteus/TransPort-PH">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Acteus&repo=project-2&theme=tokyonight&hide_border=true&bg_color=00000000" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Acteus&repo=TransPort-PH&theme=tokyonight&hide_border=true&bg_color=00000000" />
     </a>
   </div>
 
