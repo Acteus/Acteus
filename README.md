@@ -12,9 +12,6 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height="180" src="https://github-readme-stats.vercel.app/api?username=Acteus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
     </a>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Acteus&theme=tokyonight&hide_border=true&bg_color=00000000" />
-    </a>
   </p>
 
   <!-- Top Languages -->
