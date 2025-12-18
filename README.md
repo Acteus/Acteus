@@ -1,75 +1,87 @@
 <div align="center">
-
-  <!-- Header with Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Acteus;Welcome+to+my+profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Hi+There!+%F0%9F%91%8B;I'm+Acteus;Validation+Engineer+|+BSCS+Student;DevOps+|+ML+|+IoT" alt="Typing SVG" />
   </a>
+</div>
 
-  <br/>
+<div align="center">
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Garren%20Dullas&fontSize=80&animation=fadeIn&fontAlign=50&desc=Her%20presence%20keeps%20me%20sane&descAlign=50&descSize=20" width="100%" />
+</div>
 
-  <!-- Stats Section -->
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=Acteus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-    </a>
+<div align="center">
+  <h3>👨‍💻 About Me</h3>
+  <p>
+    I'm a <strong>BS Computer Science</strong> student at <strong>Jose Rizal University</strong> from the Philippines 🇵🇭.<br>
+    Passionate about building scalable systems, training models, and connecting devices.
   </p>
+</div>
 
-  <!-- Top Languages -->
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acteus&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-    </a>
-  </p>
+<br />
 
-  <br/>
+<div align="center">
+  <h3>🛠️ Tech Stack</h3>
 
-  <!-- Featured Projects -->
-  <h3 align="center"> Featured Projects</h3>
-  <div align="center">
-    <a href="https://github.com/Acteus/Project-ISO">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Acteus&repo=Project-ISO&theme=tokyonight&hide_border=true&bg_color=00000000" />
-    </a>
-    <a href="https://github.com/Acteus/TransPort-PH">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Acteus&repo=TransPort-PH&theme=tokyonight&hide_border=true&bg_color=00000000" />
-    </a>
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <br />
+  
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <br />
+
+  <!-- Cloud & DevOps -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <br />
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Acteus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acteus&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
   </div>
+</div>
 
-  <br/>
+<br/>
 
-  <!-- Tech Stack -->
-  <h3>🛠️ Technologies & Tools</h3>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-    <img width="20" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-    <img width="20" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
-    <img width="20" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-    <img width="20" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo" />
-    <img width="20" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40" alt="html logo" />
-    <img width="20" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="40" alt="css logo" />
-    <img width="20" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-    <img width="20" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40" alt="react logo" />
-    <img width="20" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-    <img width="20" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
-    <img width="20" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" height="40" alt="firebase logo" />
-    <img width="20" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" height="40" alt="azure logo" />
-    <img width="20" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-    <img width="20" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-    <img width="20" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" height="40" alt="kubernetes logo"  />
-  </div>
+<div align="center">
+  <h3>🏆 Featured Projects</h3>
+  <br />
+  <a href="https://github.com/Acteus/Project-ISO">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Acteus&repo=Project-ISO&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/Acteus/JobBoard-DevOps-Project">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Acteus&repo=JobBoard-DevOps-Project&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  </a>
+  <br />
+  <a href="https://github.com/Acteus/TransPort-PH">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Acteus&repo=TransPort-PH&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/Acteus/IoT-Sensor-Dashboard">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Acteus&repo=IoT-Sensor-Dashboard&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  </a>
+</div>
 
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" />
 </div>
