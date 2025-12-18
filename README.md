@@ -1,18 +1,17 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Hi+There!+%F0%9F%91%8B;I'm+Acteus;Validation+Engineer+|+BSCS+Student;DevOps+|+ML+|+IoT" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Hi+There!+%F0%9F%91%8B;I'm+Acteus;Validation+Engineer+|+BSIT+Student;DevOps+|+ML+|+IoT" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   <br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Garren%20Dullas&fontSize=80&animation=fadeIn&fontAlign=50&desc=Her%20presence%20keeps%20me%20sane&descAlign=50&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Garren%20Dullas&fontSize=80&animation=fadeIn&fontAlign=50&desc=To%20the%20ends%20of%20the%20eath&descAlign=50&descSize=20" width="100%" />
 </div>
 
 <div align="center">
-  <h3>👨‍💻 About Me</h3>
+  <h3>About Me</h3>
   <p>
-    I'm a <strong>BS Computer Science</strong> student at <strong>Jose Rizal University</strong> from the Philippines 🇵🇭.<br>
     Passionate about building scalable systems, training models, and connecting devices.
   </p>
 </div>
@@ -20,7 +19,7 @@
 <br />
 
 <div align="center">
-  <h3>🛠️ Tech Stack</h3>
+  <h3>Tech Stack</h3>
 
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -53,7 +52,7 @@
 <br/>
 
 <div align="center">
-  <h3>📊 GitHub Stats</h3>
+  <h3>GitHub Stats</h3>
   <div style="display: flex; justify-content: center; gap: 10px;">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=Acteus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" />
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acteus&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
@@ -63,7 +62,7 @@
 <br/>
 
 <div align="center">
-  <h3>🏆 Featured Projects</h3>
+  <h3>Featured Projects</h3>
   <br />
   <a href="https://github.com/Acteus/Project-ISO">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Acteus&repo=Project-ISO&theme=tokyonight&hide_border=true&bg_color=00000000" />
